@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ImpactTVDance" tvg-name="Impact TV Dance" tvg-logo="https://raw.githubusercontent.com/jhruby49/impact-tv-dance/main/impact-tv-dance.png" group-title="Dance",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
